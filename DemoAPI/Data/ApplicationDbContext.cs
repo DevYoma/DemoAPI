@@ -9,6 +9,6 @@ namespace DemoAPI.Data
         {
         }
 
-        public DbSet<StudentEntity> StudentRegister { get; set; } // Students will be the name on the table
+        public DbSet<StudentEntity> StudentRegister { get; set; } // StudentsRegister will be the name on the table
     }
 }
